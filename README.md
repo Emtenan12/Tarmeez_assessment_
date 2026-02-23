@@ -198,7 +198,7 @@ Based on the comprehensive analysis presented in this dashboard, several strateg
 
 ## Live Dashboard Link
 
-Access the interactive dashboard here: [Online Retail Analytics Dashboard](https://mickie-loftiest-sardonically.ngrok-free.dev)
+Access the interactive dashboard here: [Online Retail Analytics Dashboard](https://online-retail-dashboard-38dmea9nh8jfyuvxxldima.streamlit.app/)
 
 ## Assumptions & Limitations
 
